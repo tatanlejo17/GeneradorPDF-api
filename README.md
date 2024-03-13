@@ -1,10 +1,22 @@
 # GeneradorPDF-api
+Prueba de concepto empresarial - Proyecto webapi en .Net 8 para generar archivos PDF utilizando la librería QuestPDF
+
+### Herramientas y Tecnologías utilizadas
+  * .Net v8
+  * QuestPDF v2023.12.6
+  * Visual Studio Code
+  * Postman
+
+
 > [!NOTE]
-> Prueba de concepto empresarial - Proyecto webapi en .Net 8 para generar archivos PDF utilizando la librería QuestPDF
+> Para el uso de librería QuestPDF se realizó la instalación directamente desde el manejador de paquetes Nuget, utilizando el siguiente comando desde la consola
+> dotnet add package QuestPDF --version 2023.12.6
+
 
 > [!TIP]
-> Documentación QuestPDF
+> Documentación Oficial librería QuestPDF
 > https://www.questpdf.com/getting-started.html
+
 
 > [!IMPORTANT]
 > Información sobre licencia QuestPDF
