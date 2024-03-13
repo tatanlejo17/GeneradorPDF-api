@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mocJLzckGoaImCGBF9CBjCk8MKcWR8RUG7PtKKqNzN8=",
+  "Source": "GenerarPDFAPI",
+  "BasePath": "_content/GenerarPDFAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
